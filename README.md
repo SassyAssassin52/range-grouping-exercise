@@ -15,11 +15,11 @@ This project implements a solution that takes an array of integers and converts 
 
 ## Requirements Met
 
-✅ **Java 8+**: Uses Java 8 features including streams, lambdas, and method references  
-✅ **Interface Implementation**: Implements the `RangeGrouper` interface  
-✅ **Comprehensive Testing**: Full JUnit 5 test suite with 24+ test cases  
-✅ **GitHub Ready**: Complete project structure ready for GitHub submission  
-✅ **Maven Build**: Professional build configuration with dependencies  
+**Java 8+**: Uses Java 8 features including streams, lambdas, and method references  
+**Interface Implementation**: Implements the `RangeGrouper` interface  
+**Comprehensive Testing**: Full JUnit 5 test suite with 24+ test cases  
+**GitHub Ready**: Complete project structure ready for GitHub submission  
+**Maven Build**: Professional build configuration with dependencies  
 
 ## Project Structure
 
